@@ -8,8 +8,9 @@ Esse projeto foi criado usando as tecnologias:
 [CSS3]
 [Sublime](https://www.sublimetext.com/)
 
-##Como rodar o projeto
+## Como rodar o projeto
 Clone o projeto com o comando abaixo:
+
 git bash
   # Clone o repositório
   ❯ git clone 
