@@ -4,10 +4,10 @@ Repositório criado com o objetivo de mostrar meus primeiros conhecimentos em CS
 Esse projeto foi criado usando as tecnologias:
 ### Front-end
 
-[HTML5]
-[CSS3]
-[Sublime](https://www.sublimetext.com/)
-
+-[HTML5]
+-[CSS3]
+-[Sublime](https://www.sublimetext.com/)
+---
 ##Como rodar o projeto
 Clone o projeto com o comando abaixo:
 git bash
