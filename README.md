@@ -7,7 +7,7 @@ Esse projeto foi criado usando as tecnologias:
 [HTML5]
 [CSS3]
 [Sublime](https://www.sublimetext.com/)
----
+
 ##Como rodar o projeto
 Clone o projeto com o comando abaixo:
 git bash
